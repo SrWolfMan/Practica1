@@ -1,0 +1,14 @@
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\obj\Debug\net10.0\insercion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\obj\Debug\net10.0\insercion.AssemblyInfoInputs.cache
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\obj\Debug\net10.0\insercion.AssemblyInfo.cs
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\obj\Debug\net10.0\insercion.csproj.CoreCompileInputs.cache
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\bin\Debug\net10.0\insercion.exe
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\bin\Debug\net10.0\insercion.deps.json
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\bin\Debug\net10.0\insercion.runtimeconfig.json
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\bin\Debug\net10.0\insercion.dll
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\bin\Debug\net10.0\insercion.pdb
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\obj\Debug\net10.0\insercion.dll
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\obj\Debug\net10.0\refint\insercion.dll
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\obj\Debug\net10.0\insercion.pdb
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\obj\Debug\net10.0\insercion.genruntimeconfig.cache
+C:\Users\SrWolfMan_\Desktop\mt\c#\insercion\obj\Debug\net10.0\ref\insercion.dll

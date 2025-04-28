@@ -1,0 +1,14 @@
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\bin\Debug\net10.0\burbuja.exe
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\bin\Debug\net10.0\burbuja.deps.json
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\bin\Debug\net10.0\burbuja.runtimeconfig.json
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\bin\Debug\net10.0\burbuja.dll
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\bin\Debug\net10.0\burbuja.pdb
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\obj\Debug\net10.0\burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\obj\Debug\net10.0\burbuja.AssemblyInfoInputs.cache
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\obj\Debug\net10.0\burbuja.AssemblyInfo.cs
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\obj\Debug\net10.0\burbuja.csproj.CoreCompileInputs.cache
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\obj\Debug\net10.0\burbuja.dll
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\obj\Debug\net10.0\refint\burbuja.dll
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\obj\Debug\net10.0\burbuja.pdb
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\obj\Debug\net10.0\burbuja.genruntimeconfig.cache
+C:\Users\SrWolfMan_\Desktop\mt\c#\burbuja\obj\Debug\net10.0\ref\burbuja.dll
